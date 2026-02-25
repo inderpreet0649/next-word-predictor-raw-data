@@ -41,10 +41,10 @@ Perfect for **beginner NLP projects, portfolios, and academic demonstrations**.
 
 next_word_predictor_from_raw_data/
 │
-├── Child-Development-Guide.pdf
-├── app.py
-├── requirements.txt
-└── src/
+├── Child-Development-Guide.pdf     
+├── app.py          
+├── requirements.txt        
+└── src/            
 
 ---
 
@@ -67,15 +67,6 @@ View output and prediction history
 
 ---
 
-## Screenshots  
-screenshots/
-├── home_page.png
-├── prediction_result.png
-├── history_section.png
-
-
----
-
 ## 🎯 Use Cases       
 
 NLP learning project    
@@ -89,6 +80,6 @@ PDF text analysis
 
 Inderpreet Kaur   
 📧 Email: inderpreetkaur0649@gmail.com   
-🔗 LinkedIn: https://www.linkedin.com/in/inderpreet-kaur-ml   
+🔗 Linkedin: https://www.linkedin.com/in/inderpreet-kaur-613b1437b/      
 
 ⭐ If you like this project, feel free to star the repository!    
