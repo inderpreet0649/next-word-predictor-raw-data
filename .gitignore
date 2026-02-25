@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Files
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Model files
+*.h5
+*.ckpt
+model/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Temporary files
+temp.pdf
+
+# Ignore data folder (contains large PDF)
+data/
